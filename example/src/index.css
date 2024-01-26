@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: #038a8a;
+}
+
+body {
+  background-color: #212121;
+}
+
+button {
+  background-color: var(--primary-color);
+  font-weight: bold;
+  padding: 8px 16px;
+  cursor: pointer;
+  color: white;
+}
