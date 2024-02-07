@@ -1,9 +1,13 @@
 {
   "name": "@duodeka/notistack-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "type": "module",
+  "homepage": "https://github.com/duodeka/notistack-helper",
+  "repository": {
+    "url": "https://github.com/duodeka/notistack-helper.git"
+  },
   "files": [
     "dist/*"
   ],
